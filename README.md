@@ -20,31 +20,34 @@ AWAY PRODUCTS ISNT ENDORSED BY RIOT GAMES AND DOESNT REFLECT THE VIEWS OR OPINIO
 ## <a id="content"></a>🌐 〢 Content
 - [🌌・Discord](https://discord.gg/sWQyPSAcyj)
 - [🌌・Website](https://awayproducts.us)
+- [🖥️・How To Use](#how-to-use)
 - [🔰・Features](#features)
 - [👁️・Preview](#preview)
 - [💰・How To Buy](#how-to-buy)
-- [💰・Prices](#prices)
+- [💲・Prices](#prices)
 
-## <a id="how-to-use"></a>💲 〢 How To Use
+## <a id="how-to-use"></a>🖥️ 〢 How To Use
 ```diff
-> You just need to have the Arduino Leonardo R3.
+You just need to have the Arduino Leonardo R3.
 ```
 
 ## <a id="features"></a>💎 〢 Features
 ```diff
 > Aim Assist:
-+ Speed
-+ Fov X
-+ Fov Y
-+ Mouse Bind
+
+Speed
+Fov X
+Fov Y
+Mouse Bind
 
 > Recoil Control:
-+ State (ON-OFF)
-+ Length
+
+State (ON-OFF)
+Length
 
 > Miscellaneous:
-+ Smoothing
-+ Player Offset (Head, Neck, Body)
+Smoothing
+Player Offset (Head, Neck, Body)
 ```
 
 ## <a id="preview"></a>👁️ 〢 Preview
@@ -55,8 +58,8 @@ Video 2 (CLICK TO THUMBNAIL)
 
 ## <a id="how-to-buy"></a>💰 〢 How To Buy
 ```diff
-> Website: https://awayproducts.us
-+ Visit our website, select your product and click checkout now! 
+Website: https://awayproducts.us
+Visit our website, select your product and click checkout now! 
 ```
 
 ## <a id="prices"></a>💲 〢 Prices
