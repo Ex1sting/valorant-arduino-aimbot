@@ -53,9 +53,9 @@ Player Offset (Head, Neck, Body)
 
 ## <a id="preview"></a>👁️ 〢 Preview
 Video 1 (CLICK TO THUMBNAIL)
-[![VIDEO1](https://raw.githubusercontent.com/fantasywastaken/valorant-arduino-aimbot/main/1.jpg)](https://www.youtube.com/watch?v=OkqdVpgENwE "VIDEO1")
+[![VIDEO1](https://cdn.discordapp.com/attachments/1019689191807930499/1130165813060583594/1.jpg)](https://www.youtube.com/watch?v=OkqdVpgENwE "VIDEO1")
 Video 2 (CLICK TO THUMBNAIL)
-[![VIDEO2](https://raw.githubusercontent.com/fantasywastaken/valorant-arduino-aimbot/main/2.jpg)](https://www.youtube.com/watch?v=TKsJlltkrK8 "VIDEO2")
+[![VIDEO2](https://cdn.discordapp.com/attachments/1019689191807930499/1130165813450657863/2.jpg)](https://www.youtube.com/watch?v=TKsJlltkrK8 "VIDEO2")
 
 ## <a id="how-to-buy"></a>💰 〢 How To Buy
 ```diff
