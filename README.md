@@ -1,5 +1,5 @@
 <h1 align="center">
-   Away Products
+   Valorant Arduino Aimbot
 </h1>
 <p align="center"> 
    <kbd>
