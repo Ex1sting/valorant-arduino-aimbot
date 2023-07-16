@@ -3,7 +3,7 @@
 </h1>
 <p align="center"> 
    <kbd>
-   <img src="[https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png](https://cdn.discordapp.com/attachments/1105563828135141407/1129848223293522010/AWAY.webp)" width="400"></img>
+   <img src="(https://cdn.discordapp.com/attachments/1105563828135141407/1129848223293522010/AWAY.webp)" width="400"></img>
    </kbd>
 </p>
 <h1 align="center">
