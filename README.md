@@ -46,6 +46,7 @@ State (ON-OFF)
 Length
 
 > Miscellaneous:
+
 Smoothing
 Player Offset (Head, Neck, Body)
 ```
@@ -58,8 +59,8 @@ Video 2 (CLICK TO THUMBNAIL)
 
 ## <a id="how-to-buy"></a>💰 〢 How To Buy
 ```diff
-Website: https://awayproducts.us
-Visit our website, select your product and click checkout now! 
+> Website: https://awayproducts.us
+> Visit our website, select your product and click checkout now! 
 ```
 
 ## <a id="prices"></a>💲 〢 Prices
