@@ -8,8 +8,8 @@
 </p>
 
 <h1 align="center">
-   https://discord.gg/sWQyPSAcyj<br>
-   🔱 Join Discord Server for support and contact 🔱
+   https://discord.gg/sWQyPSAcyj - fantasy#3010<br>
+   🔱 Join discord server for support and contact 🔱
 </h1>
 
 **NOTE:** 
@@ -23,6 +23,12 @@ AWAY PRODUCTS ISNT ENDORSED BY RIOT GAMES AND DOESNT REFLECT THE VIEWS OR OPINIO
 - [🔰・Features](#features)
 - [👁️・Preview](#preview)
 - [💰・How To Buy](#how-to-buy)
+- [💰・Prices](#prices)
+
+## <a id="how-to-use"></a>💲 〢 How To Use
+```diff
+> You just need to have the Arduino Leonardo R3.
+```
 
 ## <a id="features"></a>💎 〢 Features
 ```diff
@@ -31,9 +37,11 @@ AWAY PRODUCTS ISNT ENDORSED BY RIOT GAMES AND DOESNT REFLECT THE VIEWS OR OPINIO
 + Fov X
 + Fov Y
 + Mouse Bind
+
 > Recoil Control:
 + State (ON-OFF)
 + Length
+
 > Miscellaneous:
 + Smoothing
 + Player Offset (Head, Neck, Body)
@@ -47,8 +55,15 @@ Video 2 (CLICK TO THUMBNAIL)
 
 ## <a id="how-to-buy"></a>💰 〢 How To Buy
 ```diff
-> Website:
+> Website: https://awayproducts.us
 + Visit our website, select your product and click checkout now! 
+```
+
+## <a id="prices"></a>💲 〢 Prices
+```diff
+> 1 Week: $25
+> 1 Month: $70
+> 3 Month: $200
 ```
 
 **TAGS**
