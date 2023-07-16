@@ -3,7 +3,7 @@
 </h1>
 <p align="center"> 
    <kbd>
-   <img src="https://cdn.discordapp.com/attachments/1105563828135141407/1129850332936146986/awayy.png" width="400"></img>
+   <img src="https://cdn.discordapp.com/attachments/1105563828135141407/1129860987495923885/aways.png" width="85"></img>
    </kbd>
 </p>
 
@@ -27,16 +27,16 @@ AWAY PRODUCTS ISNT ENDORSED BY RIOT GAMES AND DOESNT REFLECT THE VIEWS OR OPINIO
 ## <a id="features"></a>💎 〢 Features
 ```diff
 > Aim Assist:
-- Speed
-- Fov X
-- Fov Y
-- Mouse Bind
++ Speed
++ Fov X
++ Fov Y
++ Mouse Bind
 > Recoil Control:
-- State (ON-OFF)
-- Length
++ State (ON-OFF)
++ Length
 > Miscellaneous:
-- Smoothing
-- Player Offset (Head, Neck, Body)
++ Smoothing
++ Player Offset (Head, Neck, Body)
 ```
 
 ## <a id="preview"></a>👁️ 〢 Preview
@@ -46,7 +46,7 @@ AWAY PRODUCTS ISNT ENDORSED BY RIOT GAMES AND DOESNT REFLECT THE VIEWS OR OPINIO
 ## <a id="how-to-buy"></a>💰 〢 How To Buy
 ```diff
 > Website:
-- Visit our website, select your product and click checkout now! 
++ Visit our website, select your product and click checkout now! 
 ```
 
 **TAGS**
