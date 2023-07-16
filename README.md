@@ -40,7 +40,9 @@ AWAY PRODUCTS ISNT ENDORSED BY RIOT GAMES AND DOESNT REFLECT THE VIEWS OR OPINIO
 ```
 
 ## <a id="preview"></a>👁️ 〢 Preview
+Video 1 (CLICK TO THUMBNAIL)
 [![VIDEO1](https://raw.githubusercontent.com/fantasywastaken/valorant-arduino-aimbot/main/1.jpg)](https://www.youtube.com/watch?v=OkqdVpgENwE "VIDEO1")
+Video 2 (CLICK TO THUMBNAIL)
 [![VIDEO2](https://raw.githubusercontent.com/fantasywastaken/valorant-arduino-aimbot/main/2.jpg)](https://www.youtube.com/watch?v=TKsJlltkrK8 "VIDEO2")
 
 ## <a id="how-to-buy"></a>💰 〢 How To Buy
