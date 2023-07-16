@@ -3,9 +3,10 @@
 </h1>
 <p align="center"> 
    <kbd>
-   <img src="https://cdn.discordapp.com/attachments/1105563828135141407/1129848223293522010/AWAY.webp" width="400"></img>
+   <img src="https://cdn.discordapp.com/attachments/1105563828135141407/1129850332936146986/awayy.png" width="400"></img>
    </kbd>
 </p>
+
 <h1 align="center">
    https://discord.gg/sWQyPSAcyj<br>
    🔱 Join Discord Server for support and contact 🔱
@@ -39,14 +40,13 @@ AWAY PRODUCTS ISNT ENDORSED BY RIOT GAMES AND DOESNT REFLECT THE VIEWS OR OPINIO
 ```
 
 ## <a id="preview"></a>👁️ 〢 Preview
-![](https://www.youtube.com/embed/TKsJlltkrK8)
-![](https://www.youtube.com/embed/OkqdVpgENwE)
-![](https://cdn.discordapp.com/attachments/1026341952175751209/1129907465954271302/awaycheats.png)
+[![VIDEO1](https://raw.githubusercontent.com/fantasywastaken/valorant-arduino-aimbot/main/1.jpg)](https://www.youtube.com/watch?v=OkqdVpgENwE "VIDEO1")
+[![VIDEO2](https://raw.githubusercontent.com/fantasywastaken/valorant-arduino-aimbot/main/2.jpg)](https://www.youtube.com/watch?v=TKsJlltkrK8 "VIDEO2")
 
 ## <a id="how-to-buy"></a>💰 〢 How To Buy
 ```diff
 > Website:
-- Visit our [website](https://awayproducts.us), select your product and click checkout now! 
+- Visit our website, select your product and click checkout now! 
 ```
 
 **TAGS**
